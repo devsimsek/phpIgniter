@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/345938322/5bc25900-80ed-11eb-8406-35e75b118dc7" width="120px">
+</p>
+
 # phpIgniter Micro Php Framework
 
 > phpIgniter is an MVC based micro framework project of Lightr project.
@@ -7,8 +11,6 @@
   get an Certificate on Udemy.
 
 ## Installation
-
-You cant install phpIgniter right now. But we will notice you when you can.
 
 Use the package manager [svcs](https://svcs.smsk.ga/web/)
 or [click here](https://api.github.com/repos/devsimsek/phpigniter/tarball/master) to install phpIgniter.
