@@ -8,6 +8,8 @@
 
 ## Installation
 
+You cant install phpIgniter right now. But we will notice you when you can.
+
 Use the package manager [svcs](https://svcs.smsk.ga/web/)
 or [click here](https://api.github.com/repos/devsimsek/phpigniter/tarball/master) to install phpIgniter.
 
