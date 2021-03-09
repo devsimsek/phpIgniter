@@ -1,0 +1,34 @@
+/*
+ *  This File Is A Part Of The phpIgniter Project.
+ *  Maintained By Metin Şimşek.
+ *  Do Not Distribute Without The License And Author's Name.
+ *  @copyright Copyright (c) 2021 Metin Şimşek (mtnsmsk) <mtnsmsk@smsk.me, smsk.me>.
+ *  @author Metin Şimşek (mtnsmsk) <mtnsmsk@smsk.me, smsk.me>
+ *  @version 0.0.1
+ *  @link https://smsk.me/phpigniter
+ *  @created 8.03.2021 21:52
+ *  @edited 8.03.2021 21:52
+ * ------------------------------------------------------------------------
+ *  style.css File
+ *
+ *  This class contains functions that enable config files to be managed
+ *
+ *  @file         style.css
+ *  @package      phpIgniter Core
+ *  @author       Metin Şimşek (mtnsmsk) <mtnsmsk@smsk.me, smsk.me>
+ *  @link         https://smsk.me/phpigniter/docs/style.css
+ *
+ * ------------------------------------------------------------------------
+ ******************************************************************************/
+body {
+    position: relative;
+    height: 100%;
+}
+
+span {
+    font-style: italic;
+    color: gray;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
