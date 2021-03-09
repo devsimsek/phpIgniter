@@ -66,12 +66,6 @@ Please make sure to update tests as appropriate.
 
 ## Versions
 
-### Links
-
-[Stable]() | [Beta]() | [Development]() | [Changelog]()
-
-### Table
-
 | Image | Name | Version | Description | Link |
 |---------------|----------------|----------------|----------------|---|
 |<img src="https://cdn4.iconfinder.com/data/icons/mammals-flat/48/Animals_Mammals_Artboard_112-512.png" width="60px">|Ocelot|0.0.1 DEV|Created phpIgniter Project|[svcs](https://svcs.smsk.ga/web/phpigniter/ocelot)|
@@ -105,4 +99,4 @@ Please make sure to update tests as appropriate.
 
 ## Links
 
-[License](https://choosealicense.com/licenses/mit/) | [Author's Website](https://smsk.me)
+[License](https://choosealicense.com/licenses/mit/) | [Author's Website](https://smsk.me) | [Github](https://github.com/devsimsek/phpIgniter) | [Changelog](https://github.com/devsimsek/phpIgniter/wiki/Changelog)
